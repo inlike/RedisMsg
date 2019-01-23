@@ -44,6 +44,7 @@ class RedisMsg:
         print(msg)
 
 
+
 if __name__ == '__main__':
     test = RedisMsg()
     test.put_msg()
