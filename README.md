@@ -1,7 +1,7 @@
 # RedisMsg
 redis订阅功能的示例，基于此设计分布式系统
 ### 参考文档
-https://www.cnblogs.com/anpengapple/p/7027979.html
+https://www.cnblogs.com/anpengapple/p/7027979.html<p>
 https://segmentfault.com/a/1190000016898228
 ### 订阅多个频道
 ```python
